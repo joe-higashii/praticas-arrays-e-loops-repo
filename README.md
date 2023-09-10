@@ -1,1 +1,3 @@
-# aula de praticas-arrays-e-loops-repo
+![](https://i.imgur.com/xG74tOh.png)
+
+# Prática - Arrays e Loops
